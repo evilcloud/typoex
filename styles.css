@@ -11,9 +11,9 @@
 }
 
 .page p {
-    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    /* font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
     /* font-size: 150vh; */
-    font-size: 150vw;
+    font-size: 150vh;
 }
 
